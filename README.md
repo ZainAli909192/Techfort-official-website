@@ -8,3 +8,5 @@ Create a Navbar section having:
   4. Contact
   5. Client's feedback
   6. Footer section
+
+![image](https://github.com/user-attachments/assets/9dcdfe18-6c43-44b6-8f42-30fe35042c8e)
